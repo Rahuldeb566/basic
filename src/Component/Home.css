@@ -1,0 +1,26 @@
+.home {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border:  1px solid white;
+    border-radius: 5px;
+}
+
+.home a {
+    text-decoration: none;
+    margin-left: 20px;
+    float: right;
+    color: black;
+    padding: 20px;
+}
+
+.hbtn {
+    width: 100px;
+
+}
+
+.hbtn:hover {
+    color: white;
+    font-weight: 700;
+}
